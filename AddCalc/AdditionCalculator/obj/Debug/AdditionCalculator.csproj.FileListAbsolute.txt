@@ -1,0 +1,7 @@
+D:\Github\ADC\AddCalc\AdditionCalculator\bin\Debug\AdditionCalculator.exe.config
+D:\Github\ADC\AddCalc\AdditionCalculator\bin\Debug\AdditionCalculator.exe
+D:\Github\ADC\AddCalc\AdditionCalculator\bin\Debug\AdditionCalculator.pdb
+D:\Github\ADC\AddCalc\AdditionCalculator\obj\Debug\AdditionCalculator.csproj.AssemblyReference.cache
+D:\Github\ADC\AddCalc\AdditionCalculator\obj\Debug\AdditionCalculator.csproj.CoreCompileInputs.cache
+D:\Github\ADC\AddCalc\AdditionCalculator\obj\Debug\AdditionCalculator.exe
+D:\Github\ADC\AddCalc\AdditionCalculator\obj\Debug\AdditionCalculator.pdb
